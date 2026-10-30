@@ -45,7 +45,14 @@ if room_a == "clean" and room_b == "clean":
     print("\nGoal achieved!")
     print("Both rooms are clean.")
 
+#========================#
+#========================#
+
 #TICTACTOE
+
+#========================#
+#========================#
+
 
 board = [" " for i in range(9)]
 
